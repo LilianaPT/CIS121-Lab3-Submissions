@@ -1,0 +1,21 @@
+# Visual Studio files
+.vs/
+Debug/
+Release/
+x64/
+*.sln
+*.vcxproj
+*.filters
+*.user
+*.db
+*.opendb
+
+# Compiled binaries
+*.exe
+*.out
+*.o
+*.obj
+
+# Operating System files
+.DS_Store
+Thumbs.db
